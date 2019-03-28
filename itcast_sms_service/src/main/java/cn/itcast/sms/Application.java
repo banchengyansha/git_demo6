@@ -11,6 +11,7 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 		System.out.println("-----------------> app end ....");
 		System.out.println("-----------------> app end444 ....");
+		System.out.println("-----------------> app end555 ....");
 	}
 	
 }
